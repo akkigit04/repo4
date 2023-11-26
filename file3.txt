@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a file from local
+=======
+a test file
+>>>>>>> ca273a595772ca68657ae7504eebc72d7fa4daf5
