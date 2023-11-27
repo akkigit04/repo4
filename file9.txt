@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 prakasha
+=======
+residence
+>>>>>>> e8706c6 (conflicts with rebase)
